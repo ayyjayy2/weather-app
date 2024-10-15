@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# weather-app
+# Implementing Open Weather API
 Weather page using openweather api
 
 1. Initial setup of the Angular app with Bootstrap
