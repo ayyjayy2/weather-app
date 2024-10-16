@@ -6,7 +6,7 @@ Weather page using openweather api
 3. Generated a service
     >ng g s weather-service
 4. Integrated the connection with OpenWeather in the service using the following link format
-    >https://api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
+    >https://api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}&units=imperial
     - Refer to 'Request by city name' section in the [api documentation](https://openweathermap.org/current#geo).
 =======
 # Weatherapp
